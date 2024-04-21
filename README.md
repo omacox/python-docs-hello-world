@@ -7,9 +7,8 @@ products:
 - azure
 - azure-app-service
 ---
-test 1/n 
-test 2/n
-test 3/n
+
+Test
 
 # Python Flask sample for Azure App Service (Linux)
 
