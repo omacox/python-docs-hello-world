@@ -9,6 +9,7 @@ products:
 ---
 test 1
 test 2
+test 3
 
 # Python Flask sample for Azure App Service (Linux)
 
